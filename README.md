@@ -1,6 +1,6 @@
-# ✈️ Zen Travel Expense Manager   
+# Zen Travel Expense Manager   
 
-💼 Effortlessly track and manage your travel expenses with the [**Zen Travel Expense Manager GPT**](https://chatgpt.com/g/g-3Qaloz7dB-zen-travel-expense-manager). This GPT ensures that no expenses are overlooked, allowing you to focus on enjoying your journey without worrying about your budget. 
+Effortlessly track and manage your travel expenses with the [**Zen Travel Expense Manager GPT**](https://chatgpt.com/g/g-3Qaloz7dB-zen-travel-expense-manager). This GPT ensures that no expenses are overlooked, allowing you to focus on enjoying your journey without worrying about your budget. 
 
 ## Overview
 
