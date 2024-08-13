@@ -8,7 +8,7 @@ The Zen Travel Expense Manager is your personal assistant for budgeting and trac
 
 ## Features and Usage
 
-- **💵 Add New Expenses**: Easily add new travel expenses by providing details like Date, Expense Type, Amount, Location, and any relevant Notes. The tool checks for duplicates to ensure accuracy.
+- **💵 Add New Expenses**: Easily add new travel expenses by providing details like Date, Expense Type, Amount, Location, and any relevant Notes.
 
 - **🔍 Automatic Duplicate Detection**: Before adding any expense, the tool retrieves your existing records and checks if the new expense might be a duplicate. If a duplicate is suspected, you’ll be informed to avoid duplicate entries.
 
